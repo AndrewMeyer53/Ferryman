@@ -3,6 +3,4 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-def f = Character("Ferryman")
-def s = Character("Soul")
 
